@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+apache-airflow = "*"
+pymongo = "*"
+google-cloud-bigquery = "*"
+google-api-python-client = "*"
+pandas = "*"
+pyarrow = "*"
+boto3 = "*"
+awswrangler = "*"
+dbt-core = "*"
+dbt-bigquery = "*"
+google-cloud-storage = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
