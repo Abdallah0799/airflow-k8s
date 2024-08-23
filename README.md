@@ -10,6 +10,7 @@ This guide will walk you through the steps to set up a Kubernetes cluster with A
 - **Helm**: Kubernetes package manager
 - **Values.yaml**: Your Helm chart configuration file
 - **SSH Key**: For accessing the main repository
+- **Environment variables**: You need to fill manually environment variables in the values.yaml
 
 ## Setup Instructions
 
