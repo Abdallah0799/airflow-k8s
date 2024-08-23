@@ -1,5 +1,3 @@
-# airflow-k8s
-
 # Airflow Cluster Setup
 
 This guide will walk you through the steps to set up a Kubernetes cluster with Airflow, including building and loading Docker images, creating secrets, and installing Airflow.
